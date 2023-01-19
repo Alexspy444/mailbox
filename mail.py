@@ -61,7 +61,7 @@ if number == 1:
 
         # Validate the wa pin
         while True:
-            WhatsApp two step pin = input( 'Enter your WhatsApp two step pin: ')
+            WhatsApp pin = input( 'Enter your WhatsApp two step pin: ')
                 # Pin is valid
                 break
 
